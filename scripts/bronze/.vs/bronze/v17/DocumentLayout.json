@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\python_serise\\data_science IMB course\\sql-data-warehouse-project\\scripts\\bronze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\python_serise\\data_science IMB course\\sql-data-warehouse-project\\scripts\\bronze\\proc_load_bronze.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proc_load_bronze.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\python_serise\\data_science IMB course\\sql-data-warehouse-project\\scripts\\bronze\\ERP_table.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP_table.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\python_serise\\data_science IMB course\\sql-data-warehouse-project\\scripts\\bronze\\CRM_sales_table.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM_sales_table.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\python_serise\\data_science IMB course\\sql-data-warehouse-project\\scripts\\bronze\\ddl_bronze.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ddl_bronze.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\python_serise\\data_science IMB course\\sql-data-warehouse-project\\scripts\\bronze\\Insert_data.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Insert_data.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "proc_load_bronze.sql - (local)\\SQLEXPRESS.master (DELL\\hassa (80))",
+              "DocumentMoniker": "D:\\python_serise\\data_science IMB course\\sql-data-warehouse-project\\scripts\\bronze\\proc_load_bronze.sql",
+              "RelativeDocumentMoniker": "proc_load_bronze.sql",
+              "ToolTip": "D:\\python_serise\\data_science IMB course\\sql-data-warehouse-project\\scripts\\bronze\\proc_load_bronze.sql - (local)\\SQLEXPRESS.master (DELL\\hassa (80))",
+              "RelativeToolTip": "proc_load_bronze.sql - (local)\\SQLEXPRESS.master (DELL\\hassa (80))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-23T04:32:26.662Z",
+              "EditorCaption": " - (local)\\SQLEXPRESS.master (DELL\\hassa (80))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Insert_data.sql - (local)\\SQLEXPRESS.DataWerehouse (DELL\\hassa (79))",
+              "DocumentMoniker": "D:\\python_serise\\data_science IMB course\\sql-data-warehouse-project\\scripts\\bronze\\Insert_data.sql",
+              "RelativeDocumentMoniker": "Insert_data.sql",
+              "ToolTip": "D:\\python_serise\\data_science IMB course\\sql-data-warehouse-project\\scripts\\bronze\\Insert_data.sql - (local)\\SQLEXPRESS.DataWerehouse (DELL\\hassa (79))",
+              "RelativeToolTip": "Insert_data.sql - (local)\\SQLEXPRESS.DataWerehouse (DELL\\hassa (79))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-23T04:32:26.363Z",
+              "EditorCaption": " - (local)\\SQLEXPRESS.DataWerehouse (DELL\\hassa (79))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ERP_table.sql - (local)\\SQLEXPRESS.DataWerehouse (DELL\\hassa (78))",
+              "DocumentMoniker": "D:\\python_serise\\data_science IMB course\\sql-data-warehouse-project\\scripts\\bronze\\ERP_table.sql",
+              "RelativeDocumentMoniker": "ERP_table.sql",
+              "ToolTip": "D:\\python_serise\\data_science IMB course\\sql-data-warehouse-project\\scripts\\bronze\\ERP_table.sql - (local)\\SQLEXPRESS.DataWerehouse (DELL\\hassa (78))",
+              "RelativeToolTip": "ERP_table.sql - (local)\\SQLEXPRESS.DataWerehouse (DELL\\hassa (78))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-23T04:32:26.088Z",
+              "EditorCaption": " - (local)\\SQLEXPRESS.DataWerehouse (DELL\\hassa (78))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ddl_bronze.sql - (local)\\SQLEXPRESS.master (DELL\\hassa (77))",
+              "DocumentMoniker": "D:\\python_serise\\data_science IMB course\\sql-data-warehouse-project\\scripts\\bronze\\ddl_bronze.sql",
+              "RelativeDocumentMoniker": "ddl_bronze.sql",
+              "ToolTip": "D:\\python_serise\\data_science IMB course\\sql-data-warehouse-project\\scripts\\bronze\\ddl_bronze.sql - (local)\\SQLEXPRESS.master (DELL\\hassa (77))",
+              "RelativeToolTip": "ddl_bronze.sql - (local)\\SQLEXPRESS.master (DELL\\hassa (77))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-23T04:32:25.74Z",
+              "EditorCaption": " - (local)\\SQLEXPRESS.master (DELL\\hassa (77))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CRM_sales_table.sql - (local)\\SQLEXPRESS.master (DELL\\hassa (70))",
+              "DocumentMoniker": "D:\\python_serise\\data_science IMB course\\sql-data-warehouse-project\\scripts\\bronze\\CRM_sales_table.sql",
+              "RelativeDocumentMoniker": "CRM_sales_table.sql",
+              "ToolTip": "D:\\python_serise\\data_science IMB course\\sql-data-warehouse-project\\scripts\\bronze\\CRM_sales_table.sql - (local)\\SQLEXPRESS.master (DELL\\hassa (70))",
+              "RelativeToolTip": "CRM_sales_table.sql - (local)\\SQLEXPRESS.master (DELL\\hassa (70))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-23T04:32:25.591Z",
+              "EditorCaption": " - (local)\\SQLEXPRESS.master (DELL\\hassa (70))"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
